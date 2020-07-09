@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jeremy 👋
+
+- 🔭 I’m currently working on cloud platforms at [Architrave](https://architrave.de)
+- 🌱 I’m currently learning [ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- 👯 I’m looking to collaborate on [awesome-geospatial-list](https://github.com/jerr0328/awesome-geospatial-list)
+- 💬 Ask me about geospatial and Python 🐍
+- 📫 How to reach me: [@Jerr on Twitter](https://twitter.com/Jerr) or on [LinkedIn](https://linkedin.com/in/jmayeres)
+- 😄 Pronouns: [he/him](https://pronoun.is/he)
 
 <!--
 **jerr0328/jerr0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
