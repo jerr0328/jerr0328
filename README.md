@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeremy 👋
 
-- 🔭 Formerly at [Architrave](https://architrave.de), starting at [Iceye](https://www.iceye.com/) in October
+- 🔭 Currently working at [Iceye](https://www.iceye.com/)
 - 🌱 I’m currently learning [ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - 👯 I’m looking to collaborate on [awesome-geospatial-list](https://github.com/jerr0328/awesome-geospatial-list)
 - 💬 Ask me about geospatial and Python 🐍
