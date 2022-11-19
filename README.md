@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - 👯 I’m looking to collaborate on [awesome-geospatial-list](https://github.com/jerr0328/awesome-geospatial-list)
 - 💬 Ask me about geospatial and Python 🐍
-- 📫 How to reach me: [@Jerr on Twitter](https://twitter.com/Jerr) or on [LinkedIn](https://linkedin.com/in/jmayeres)
+- 📫 How to reach me: [Twitter](https://twitter.com/Jerr), [LinkedIn](https://linkedin.com/in/jmayeres), <a rel="me" href="https://mastodon.social/@jerr0328">Mastodon</a>
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 
 <!--
