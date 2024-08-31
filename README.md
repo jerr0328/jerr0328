@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremy 👋
 
 - 🔭 Currently working at [Iceye](https://www.iceye.com/)
-- 🌱 I’m currently learning [ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- 🌱 I’m currently learning about 3D printing
 - 👯 I’m looking to collaborate on [awesome-geospatial-list](https://github.com/jerr0328/awesome-geospatial-list)
 - 💬 Ask me about geospatial and Python 🐍
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jmayeres), <a rel="me" href="https://mastodon.social/@jerr0328">Mastodon</a>
